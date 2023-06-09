@@ -1,2 +1,2 @@
 # RRFE
-Representation Robustness and Feature Expansion for Exemplar-Free Class Incremental Learning
+PyTorch's implementation of "Representation Robustness and Feature Expansion for Exemplar-Free Class Incremental Learning"
