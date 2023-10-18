@@ -14,6 +14,6 @@ Download following datasets:
 
 > ImageNet
 > 
-Place the dataset in the data folder.
+Place the dataset in the data folder in the root directory.
 
 # Trainning
