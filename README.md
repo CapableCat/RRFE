@@ -28,7 +28,7 @@ python main.py --confg ./exps/rrfe_cifar100.json
 python main.py --config ./exps/rrfe_tiny.json
 ```
 
-+ ImageNet-subset
++ ImageNet-Subset
 ```
 python main.py --config ./exps/rrfe_imagenet.json
 ```
