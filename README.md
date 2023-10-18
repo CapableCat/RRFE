@@ -13,6 +13,7 @@ Download following datasets:
 > Tiny-ImageNet
 
 > ImageNet
-Place the dataset in the data folder
+> 
+Place the dataset in the data folder.
 
 # Trainning
