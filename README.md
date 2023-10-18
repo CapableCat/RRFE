@@ -8,3 +8,5 @@ Download following datasets:
 > Tiny-ImageNet
 
 > ImageNet
+
+# Trainning
