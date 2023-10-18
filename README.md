@@ -19,12 +19,12 @@ Place the dataset in the data_manager/dataset folder.
 # Trainning
 + CIFAR100
 
-% python main.py --confg ./exps/rrfe_cifar100.json
+'python main.py --confg ./exps/rrfe_cifar100.json'
 
 + TinyImageNet
 
-python main.py --config ./exps/rrfe_tiny.json
+'python main.py --config ./exps/rrfe_tiny.json'
 
 + ImageNet-subset
 
-python main.py --config ./exps/rrfe_imagenet.json
+'python main.py --config ./exps/rrfe_imagenet.json'
