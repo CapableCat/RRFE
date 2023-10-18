@@ -1,5 +1,5 @@
 # RRFE
-PyTorch's implementation of "Representation Robustness and Feature Expansion for Exemplar-Free Class Incremental Learning"
+PyTorch's implementation of "Representation Robustness and Feature Expansion for Exemplar-Free Class Incremental Learning".
 
 # Requirements
 + Python 3.8
@@ -14,6 +14,6 @@ Download following datasets:
 
 > ImageNet
 
-Place the dataset in the data_manager/dataset folder
+Place the dataset in the data_manager/dataset folder.
 
 # Trainning
